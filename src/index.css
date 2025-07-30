@@ -1,6 +1,12 @@
 body {
   overflow-x: hidden;
 }
+html {
+  overflow-x: hidden;
+}
+.row {
+  margin: 0;
+}
 .bg-darkblue {
   background-color: #2c3e50;
 }
